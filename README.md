@@ -1,2 +1,2 @@
-# emcmc
-Here are some codes I used
+# entropy-mcmc
+Here are some basic codes I used
