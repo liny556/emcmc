@@ -1,2 +1,2 @@
 # entropy-mcmc
-Here are some basic codes I used
+Here are some basic codes in entropy-mcmc.
